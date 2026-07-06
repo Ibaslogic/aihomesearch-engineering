@@ -138,6 +138,30 @@ Modern SaaS platforms continuously evolve. A consistent engineering goal was bui
 
 Successful product development requires close collaboration between engineering, product stakeholders, designers, and AI specialists. Delivering production-ready features often involved refining requirements, reviewing implementation approaches, and iterating based on product feedback.
 
+## Engineering Principles
+
+The following principles consistently guide my approach to building production software.
+
+### Build for Maintainability
+
+I prioritize solutions that are easy to understand, extend, and maintain over time. Clear architecture, reusable components, and consistent implementation patterns help reduce technical debt as products evolve.
+
+### Focus on Business Value
+
+Every feature should solve a meaningful business problem. I aim to understand the product goals before implementation so technical decisions support measurable outcomes rather than unnecessary complexity.
+
+### Design for Scalability
+
+Requirements change as products mature. I prefer building flexible foundations that accommodate future enhancements without requiring major rewrites.
+
+### Deliver Reliable User Experiences
+
+Whether building customer-facing products or internal business systems, usability, responsiveness, accessibility, and consistency remain important considerations throughout development.
+
+### Collaborate Effectively
+
+Successful software is built through collaboration. I enjoy working with product managers, designers, AI engineers, and fellow developers to transform ideas into production-ready solutions while continuously improving through feedback.
+
 ## My Role
 
 I contribute as a Software Engineer, with a frontend-focused role and meaningful backend/API integration responsibilities.

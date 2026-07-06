@@ -72,6 +72,48 @@ My work also involved integrating production systems with external and internal 
 - Internal APIs
 - Third-party business services
 
+## Technology Stack
+
+The platform combines modern frontend technologies with backend services and third-party integrations to deliver a scalable and maintainable product experience.
+
+### Frontend
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Material UI
+- Zustand
+
+The frontend emphasizes responsive design, component reusability, accessibility, and performance while supporting both customer-facing experiences and internal business applications.
+
+### Backend & APIs
+
+- Next.js API Routes
+- REST APIs
+- Prisma
+- MongoDB
+
+Backend integrations support business workflows, secure data exchange, authentication, and communication between platform services.
+
+### Integrations
+
+- Stripe
+- Google Places API
+- AI Service APIs
+
+These integrations enable payment processing, address validation, intelligent product capabilities, and enhanced user experiences.
+
+### Development & Deployment
+
+- Git
+- GitHub
+- Vercel
+- Jest
+
+Development focuses on maintainability, collaborative workflows, production readiness, and continuous improvement.
+
 ## My Role
 
 I contribute as a Software Engineer, with a frontend-focused role and meaningful backend/API integration responsibilities.

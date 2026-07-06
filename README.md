@@ -8,6 +8,10 @@ This repository does not contain source code, proprietary implementation details
 
 AiHomeSearch is a property technology platform focused on helping users search for properties while supporting internal business workflows for agents, administrators, and platform operations.
 
+## Engineering Scope
+
+For a high-level view of the product areas covered in this case study, see the [Engineering Scope Diagram](docs/engineering-scope.md).
+
 ## Product Scope
 
 AiHomeSearch includes both customer-facing and internal product areas, including:

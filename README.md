@@ -114,6 +114,30 @@ These integrations enable payment processing, address validation, intelligent pr
 
 Development focuses on maintainability, collaborative workflows, production readiness, and continuous improvement.
 
+## Engineering Challenges
+
+Building production software extends far beyond implementing features. Throughout my work on AiHomeSearch, I regularly balanced technical decisions with product requirements, maintainability, scalability, and user experience.
+
+### Building Reusable Product Experiences
+
+Many platform features share common patterns across both customer-facing applications and internal business systems. A key focus was building reusable, maintainable components that could evolve as product requirements changed without introducing unnecessary complexity.
+
+### Supporting Business Workflows
+
+Internal platforms often involve interconnected workflows rather than isolated screens. Designing features that support property management, operational processes, reporting, and user management required careful consideration of usability, consistency, and long-term maintainability.
+
+### Integrating External Services
+
+Working with third-party services required designing reliable integrations while providing a seamless user experience. This included payment processing, address validation, and other platform capabilities exposed through secure APIs.
+
+### Balancing Performance and Flexibility
+
+Modern SaaS platforms continuously evolve. A consistent engineering goal was building solutions that remain performant while allowing the product to grow without requiring major architectural changes.
+
+### Collaboration Across Disciplines
+
+Successful product development requires close collaboration between engineering, product stakeholders, designers, and AI specialists. Delivering production-ready features often involved refining requirements, reviewing implementation approaches, and iterating based on product feedback.
+
 ## My Role
 
 I contribute as a Software Engineer, with a frontend-focused role and meaningful backend/API integration responsibilities.

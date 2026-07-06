@@ -26,6 +26,52 @@ AiHomeSearch includes both customer-facing and internal product areas, including
 
 My contributions focus on building reliable user interfaces, internal business workflows, API integrations, and production-ready product experiences.
 
+## Engineering Contributions
+
+My role spans both customer-facing products and internal business systems, with approximately:
+
+- **70% Frontend Engineering**
+- **30% Backend Integration & Product Engineering**
+
+### Customer-Facing Applications
+
+I contributed to building responsive, accessible, and production-ready interfaces that support property discovery and user engagement, with a focus on usability, performance, and maintainability.
+
+Examples include:
+
+- Property search experiences
+- Property listing pages
+- Interactive maps
+- Search workflows
+- Responsive UI components
+- Technical SEO improvements
+
+### Internal Business Systems
+
+I contributed to the development of internal applications used by agents and administrators to support daily business operations.
+
+These include features such as:
+
+- Property management
+- Lead management
+- Meeting scheduling
+- Reporting dashboards
+- Payment workflows
+- Invoice management
+- Role-based access control
+- Platform configuration
+- Workflow automation
+
+### Platform Integrations
+
+My work also involved integrating production systems with external and internal services, including:
+
+- Stripe payment workflows
+- Google Places APIs
+- AI-powered platform capabilities
+- Internal APIs
+- Third-party business services
+
 ## My Role
 
 I contribute as a Software Engineer, with a frontend-focused role and meaningful backend/API integration responsibilities.

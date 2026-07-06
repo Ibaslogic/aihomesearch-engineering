@@ -162,6 +162,38 @@ Whether building customer-facing products or internal business systems, usabilit
 
 Successful software is built through collaboration. I enjoy working with product managers, designers, AI engineers, and fellow developers to transform ideas into production-ready solutions while continuously improving through feedback.
 
+## Key Engineering Contributions
+
+The following highlights summarize the primary areas where I contributed throughout the development of the platform.
+
+### Customer-Facing Product Experience
+
+Designed and implemented responsive user interfaces that support property discovery, listing exploration, and an intuitive search experience across desktop and mobile devices.
+
+### Internal Business Systems
+
+Built and enhanced internal applications that enable agents and administrators to manage daily operations, including property management, lead handling, reporting, meeting scheduling, and platform administration.
+
+### Workflow Automation
+
+Developed features that streamline operational processes, reduce repetitive manual tasks, and improve consistency across internal business workflows.
+
+### Payment & Billing Workflows
+
+Implemented secure payment experiences by integrating Stripe Checkout and related APIs into production workflows supporting invoices and platform services.
+
+### API Integration
+
+Integrated frontend applications with internal services and trusted third-party APIs to provide reliable, scalable, and maintainable product functionality.
+
+### AI-Integrated Features
+
+Collaborated with AI engineers to integrate intelligent capabilities into production applications through secure APIs, transforming AI services into practical user-facing experiences.
+
+### Platform Quality
+
+Contributed to improving usability, responsiveness, maintainability, technical SEO, and overall product quality through continuous refinement and collaboration across engineering disciplines.
+
 ## My Role
 
 I contribute as a Software Engineer, with a frontend-focused role and meaningful backend/API integration responsibilities.
